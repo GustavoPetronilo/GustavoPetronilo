@@ -25,5 +25,7 @@ I'm a theoretical physicist with a passion for understanding the fundamental law
 - Passionate Gamer and 90's SEGA fan.
 - Spouse and father! 
 
-## 📫 Let's Connect
-Feel free to reach out if you share similar interests or just want to chat about the latest breakthroughs in quantum computing! You can find me on LinkedIn or Twitter.
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gustavo-petronilo/)
+
